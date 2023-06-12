@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multitool", "Multitool.csproj", "{C952CD2F-08B8-4186-80A1-274D0CBC01D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C952CD2F-08B8-4186-80A1-274D0CBC01D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C952CD2F-08B8-4186-80A1-274D0CBC01D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C952CD2F-08B8-4186-80A1-274D0CBC01D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C952CD2F-08B8-4186-80A1-274D0CBC01D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E024F610-0824-43C7-9E11-125191CC20F1}
+	EndGlobalSection
+EndGlobal

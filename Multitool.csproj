@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>Multitool</RootNamespace>
+        <Configurations>Debug;Release</Configurations>
+        <Nullable>enable</Nullable>
+        <AssemblyName>Multitool</AssemblyName>
+        <LangVersion>latest</LangVersion>
+        <Optimize>True</Optimize>
+        <DebugType>embedded</DebugType>
+    </PropertyGroup>
+	<Import Project="..\btd6.targets" />
+</Project>
