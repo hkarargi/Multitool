@@ -8,8 +8,8 @@
 -A mod that lets you change the current round, the amount of cash you have, and the amount of lives you have!
 
 Controls:
-  F6: Change Round
-  F7: Change Money
-  F8: Change Health
+ - F5: Change Round
+ - F6: Change Money
+ - F7: Change Health
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
